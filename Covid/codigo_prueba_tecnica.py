@@ -1,4 +1,5 @@
-# La ejecucion  en una terminal es `python3 codigo_prueba_tecnica` 
+# La ejecucion  en una terminal es `python3 codigo_prueba_tecnica.py` 
+
 # Librerias
 import pandas as pd
 import numpy as np
